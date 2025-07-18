@@ -41,14 +41,13 @@ No matter how rough it is — feedback, criticism, and suggestions are always ap
 ---
 
 🖼️ Screenshots _(optional)_
-<!-- <img width="326" height="510" alt="image" src="https://github.com/user-attachments/assets/6719b597-0d54-46aa-9038-bf84b98d139e" />
+<img width="326" height="510" alt="image" src="https://github.com/user-attachments/assets/6719b597-0d54-46aa-9038-bf84b98d139e" />
 <img width="464" height="406" alt="image" src="https://github.com/user-attachments/assets/ca486929-cfd6-4f41-8f63-f5d6affa8dbe" />
 <img width="333" height="474" alt="image" src="https://github.com/user-attachments/assets/0bee2336-e623-4445-9141-fb209a8e4174" />
 <img width="546" height="588" alt="image" src="https://github.com/user-attachments/assets/b0bfb28d-424b-42fa-9878-3fabd52ddca5" />
 <img width="1193" height="929" alt="image" src="https://github.com/user-attachments/assets/2deeba5a-da07-4eda-bb43-1b9996441ea8" />
 <img width="566" height="507" alt="image" src="https://github.com/user-attachments/assets/4fe024af-954d-49f6-8a95-53d3206d4c37" />
 
-You can upload GUI screenshots and reference them here -->
 
 ```md
 ![Timer GUI](images/timer.png)
