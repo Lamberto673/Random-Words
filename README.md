@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="blob:https://web.whatsapp.com/a19a00c5-c1d5-4596-809c-db3db5ac4011" width="800">
+  <img src="https://github.com/Lamberto673/Random-Words/blob/main/docs/screenshots/sssBanner.png">
 </p>
 
 # 🎲 Random-Words
