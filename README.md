@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/banner.png" alt="Random Words Banner" width="800">
+  <img src="C:\Users\WINDOWS 11 PRO\Downloads\Banner.jpeg" alt="Random Words Banner" width="800">
 </p>
 
 # 🎲 Random-Words
@@ -23,7 +23,7 @@ This repository is **for learning, experimenting, and having fun**. Feedback, su
 
 ## 🖥 Screenshots Showcase
 <p align="center">
-  <img src="docs/screenshots/Random_Words_Generator.jpeg" width="45%">
+  <img src="C:\Users\WINDOWS 11 PRO\Downloads\Random Words Generator.jpeg" width="45%">
   <img src="docs/screenshots/Dice.png" width="45%">
 </p>
 <p align="center">
