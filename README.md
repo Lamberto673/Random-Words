@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://github.com/Lamberto673/Random-Words/blob/main/docs/screenshots/sssBanner.png">
 </p>
----
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python">
   <img src="https://img.shields.io/badge/C++-17-orange?logo=c%2b%2b">
@@ -22,18 +21,7 @@ This repository is **for learning, experimenting, and having fun**. Feedback, su
 ---
 
 ## 🖥 Screenshots Showcase
-<p align="center">
-  <img src="https://github.com/Lamberto673/Random-Words/blob/main/docs/screenshots/Calculator.png" width="45%">
-  <img src="https://github.com/Lamberto673/Random-Words/blob/main/docs/screenshots/Dice.png" width="45%">
-</p>
-<p align="center">
-  <img src="https://github.com/Lamberto673/Random-Words/blob/main/docs/screenshots/Encryption.png" width="45%">
-  <img src="https://github.com/Lamberto673/Random-Words/blob/main/docs/screenshots/Random%20Word%20Guess.png" width="45%">
-</p>
-<p align="center">
-  <img src="https://github.com/Lamberto673/Random-Words/blob/main/docs/screenshots/Random%20Words%20Generator.jpeg" width="45%">
-  <img src="https://github.com/Lamberto673/Random-Words/blob/main/docs/screenshots/Timer.png" width="45%">
-</p>
+<h1>SOON I WILL MAKE A BIG ONE</h1>
 
 ---
 
