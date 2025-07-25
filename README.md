@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[C:\Users\WINDOWS 11 PRO\Downloads\Banner.jpeg" alt="Random Words Banner](https://github.com/Lamberto673/Random-Words/blob/main/docs/screenshots/sssBanner.png)" width="800">
+  <img src="blob:https://web.whatsapp.com/a19a00c5-c1d5-4596-809c-db3db5ac4011" width="800">
 </p>
 
 # 🎲 Random-Words
