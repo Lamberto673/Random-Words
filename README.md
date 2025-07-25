@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\WINDOWS 11 PRO\Downloads\Banner.jpeg" alt="Random Words Banner" width="800">
+  <img src="[C:\Users\WINDOWS 11 PRO\Downloads\Banner.jpeg" alt="Random Words Banner](https://github.com/Lamberto673/Random-Words/blob/main/docs/screenshots/sssBanner.png)" width="800">
 </p>
 
 # 🎲 Random-Words
@@ -23,16 +23,16 @@ This repository is **for learning, experimenting, and having fun**. Feedback, su
 
 ## 🖥 Screenshots Showcase
 <p align="center">
-  <img src="C:\Users\WINDOWS 11 PRO\Downloads\Random Words Generator.jpeg" width="45%">
-  <img src="docs/screenshots/Dice.png" width="45%">
+  <img src="[C:\Users\WINDOWS 11 PRO\Downloads\Random Words Generator.jpeg](https://github.com/Lamberto673/Random-Words/blob/main/docs/screenshots/Random%20Words%20Generator.jpeg)" width="45%">
+  <img src="[docs/screenshots/Dice.png](https://github.com/Lamberto673/Random-Words/blob/main/docs/screenshots/Dice.png)" width="45%">
 </p>
 <p align="center">
-  <img src="docs/screenshots/Calculator.png" width="45%">
-  <img src="docs/screenshots/Timer.png" width="45%">
+  <img src="[docs/screenshots/Calculator.png](https://github.com/Lamberto673/Random-Words/blob/main/docs/screenshots/Calculator.png)" width="45%">
+  <img src="[docs/screenshots/Timer.png](https://github.com/Lamberto673/Random-Words/blob/main/docs/screenshots/Timer.png)" width="45%">
 </p>
 <p align="center">
-  <img src="docs/screenshots/Encryption.png" width="45%">
-  <img src="docs/screenshots/Random_Word_Guess.png" width="45%">
+  <img src="[docs/screenshots/Encryption.png](https://github.com/Lamberto673/Random-Words/blob/main/docs/screenshots/Encryption.png)" width="45%">
+  <img src="[docs/screenshots/Random_Word_Guess.png](https://github.com/Lamberto673/Random-Words/blob/main/docs/screenshots/Random%20Word%20Guess.png)" width="45%">
 </p>
 
 ---
