@@ -23,7 +23,7 @@ This repository is **for learning, experimenting, and having fun**. Feedback, su
 
 ## 🖥 Screenshots Showcase
 <p align="center">
-  <img src="[C:\Users\WINDOWS 11 PRO\Downloads\Random Words Generator.jpeg](https://github.com/Lamberto673/Random-Words/blob/main/docs/screenshots/Random%20Words%20Generator.jpeg)" width="45%">
+  <img src="[[C:\Users\WINDOWS 11 PRO\Downloads\Random Words Generator.jpeg](https://github.com/Lamberto673/Random-Words/blob/main/docs/screenshots/Random%20Words%20Generator.jpeg)](https://github.com/Lamberto673/Random-Words/blob/main/docs/screenshots/Timer.png)" width="45%">
   <img src="[docs/screenshots/Dice.png](https://github.com/Lamberto673/Random-Words/blob/main/docs/screenshots/Dice.png)" width="45%">
 </p>
 <p align="center">
